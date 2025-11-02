@@ -1,2 +1,2 @@
-# legendary-learning
+legendary-learning
 
